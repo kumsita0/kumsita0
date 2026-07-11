@@ -40,7 +40,7 @@ I enjoy solving business problems using data and continuously build hands-on pro
 
 ### QA & Agile
 - Selenium
-- Manual/Functional Testing
+- Functional Testing
 - Agile Scrum
 - JIRA
 - Test Planning
