@@ -52,11 +52,11 @@ I enjoy solving business problems using data and continuously build hands-on pro
 
 ## 📂 Featured Projects
 
-### 📊 Market Basket Analysis using Apriori
-- Implemented the Apriori Algorithm using Python.
-- Generated frequent itemsets and association rules.
-- Evaluated Support, Confidence, and Lift.
-- Visualized purchasing patterns.
+📊 Student Performance Analysis  
+🔗 https://github.com/kumsita0/Student-Performance-Analysis-Python
+
+🛒 Apriori Association Rule Mining  
+🔗 https://github.com/kumsita0/Apriori-Association-Rule-Mining
 
 **Skills:** Python • Pandas • mlxtend • Data Mining • Jupyter Notebook
 
@@ -77,6 +77,7 @@ I enjoy solving business problems using data and continuously build hands-on pro
 - ✅ Certified Scrum Master (CSM)
 - ✅ Certified Scrum Product Owner (CSPO)
 - ✅ AHIP
+  
 ---
 
 ## 🌱 Currently Learning
@@ -85,9 +86,10 @@ I enjoy solving business problems using data and continuously build hands-on pro
 - Deep Learning
 - Data Visualization
 - Power BI
-- Tableau
 - AI
-
+- Data Mining
+- Statistical Analysis
+  
 ---
 
 ## 🎯 Career Interests
@@ -96,7 +98,7 @@ I enjoy solving business problems using data and continuously build hands-on pro
 - Business Analyst
 - Data Scientist
 - Machine Learning Engineer
-- QA Automation Engineer
+- QA Technical Manager
 - Senior Scrum Master
 
 ---
