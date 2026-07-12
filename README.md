@@ -37,6 +37,7 @@ I enjoy solving business problems using data and continuously build hands-on pro
 - Git & GitHub
 - Excel
 - POSTMAN
+- VSCode
 
 ### QA & Agile
 - Selenium
