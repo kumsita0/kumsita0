@@ -55,6 +55,16 @@ I enjoy solving business problems using data and continuously build hands-on pro
 
 ## 🚀 Featured Projects
 
+### 🛒 Retail Data Mining & Business Intelligence (Python)
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Scikit-learn • Jupyter Notebook
+
+- Performed retail data preprocessing, including data cleaning, transformation, and quality assessment.
+- Built structured fact tables and applied data generalization techniques to prepare data for business intelligence and analytics.
+- Conducted exploratory data analysis (EDA) and visualized retail data trends to support business decision-making.
+
+**Skills:** Data Cleaning • Data Transformation • Exploratory Data Analysis • Business Intelligence • ETL • Data Wrangling • Python
+---
+
 ### 📊 BRFSS Transgender Health Analysis (R)
 **Tech Stack:** R • tidyverse • gtsummary • R Markdown
 
