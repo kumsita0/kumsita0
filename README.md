@@ -63,6 +63,7 @@ I enjoy solving business problems using data and continuously build hands-on pro
 - Conducted exploratory data analysis (EDA) and visualized retail data trends to support business decision-making.
 
 **Skills:** Data Cleaning • Data Transformation • Exploratory Data Analysis • Business Intelligence • ETL • Data Wrangling • Python
+
 ---
 
 ### 📊 BRFSS Transgender Health Analysis (R)
